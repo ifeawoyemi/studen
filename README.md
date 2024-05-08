@@ -6,11 +6,6 @@ This is a student record management system built with solidity. You can add stud
 
 ## Getting Started
 
-### Installing
-```
-git clone https://github.com/devabiodun/student-record.git
-```
-
 ### Executing program
 1. Change directory into this project
 ```
