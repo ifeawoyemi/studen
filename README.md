@@ -26,8 +26,8 @@ npx hardhat deploy
 ```
 
 ## Authors
-ex. [@Abiodun](https://twitter.com/_abiodunAwoyemi)
+ex. [@codeAngel_](https://twitter.com/codeAngel_)
 
 ## License
 
-This project is licensed under the [ABIODUN] License - see the LICENSE.md file for details
+This project is licensed under the [IFEOLUWA] License - see the LICENSE.md file for details
